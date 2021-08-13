@@ -14,7 +14,8 @@
   "license": "ISC",
   "homepage": "https://github.com/B7atis/Chat_App_Websocket#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.12"
